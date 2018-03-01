@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Helvetica, Arial;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 30px 0 auto auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
